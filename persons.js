@@ -1,7 +1,7 @@
 function Person(name, email, exclude = []) {
-  this.name = name
-  this.email = email
-  this.exclude = exclude
+  this.name = name;
+  this.email = email;
+  this.exclude = exclude;
 }
 
 module.exports = [
